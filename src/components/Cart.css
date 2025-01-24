@@ -1,0 +1,29 @@
+.cart {
+    border: 1px solid #cccccc4b;
+    padding: 0;
+    width: 350px;
+    border-radius: 8px;
+    margin-top: 16px;
+    background-color:rgba(42, 85, 165, 0.932);
+  }
+  
+  .cart h2 {
+    margin-bottom: 16px;
+    background-color:green;
+  }
+  
+  .cart-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+  }
+  
+  .cart-item button {
+    margin-left: 8px;
+  }
+  
+  .cart-total {
+    font-weight: bold;
+    margin-top: 16px;
+  }
+  
